@@ -1,0 +1,16 @@
+body {
+    background: black;
+    color: #e6ee94;
+}
+
+main {
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+p {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 150px;
+    text-align: center;
+}
