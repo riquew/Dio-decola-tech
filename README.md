@@ -1,2 +1,6 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio Projeto Git/Github
+# Dio-decola tech
+- Logic
+- GitHub
+- HTML/CSS
+- Javascript
+- React Native
